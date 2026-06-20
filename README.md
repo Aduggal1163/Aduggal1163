@@ -11,17 +11,16 @@
 const abhishek = {
     location: "Punjab, India 🇮🇳",
     role: "Full-Stack Developer",
-    education: "B.Tech CSE @ Chitkara University ('26), CGPA: 8.75/10",
+    education: "B.Tech CSE @ Chitkara University ('26), CGPA: 8.84/10",
     interests: ["Competitive Programming", "AI/RAG Systems", "Full-Stack Apps"],
     currentlyLearning: ["Go Programming", "Advanced LLM Tooling"],
 };
 ```
 
 - 🔭 Currently building **full-stack apps with FastAPI, React, and RAG-based AI tools**
-- 🧩 Actively solving DSA problems in **Java & C++** — 900+ solved, LeetCode rating 1500+
 - 🏆 Qualified **GATE CS 2026**, and selected among the **top 8% of 1,500 students** for a specialized technical batch (URA)
 - 🚀 Led a MERN stack project ranked in the **top 10% of 3rd-year projects** (Top 40 of 400)
-- 💬 Ask me about **React, FastAPI, Node.js, MongoDB, or RAG/LLM pipelines**
+- 💬 Ask me about **React, FastAPI, Node.js, MongoDB, FastAPI or RAG/LLM pipelines**
 
 ---
 
