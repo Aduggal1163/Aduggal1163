@@ -90,7 +90,7 @@ A full-stack society management web app with 90+ active users, featuring 8+ modu
 </div>
 
 ---
-
+### 📊 LeetCode Stats
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/abhishekd1163?theme=light&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
 </div>
