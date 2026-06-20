@@ -91,13 +91,9 @@ A full-stack society management web app with 90+ active users, featuring 8+ modu
 
 ---
 
-### 🧩 Competitive Programming
-
-[![LeetCode](https://img.shields.io/badge/Rating-1500%2B-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/abhishekd1163/)
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-900%2B-success?style=flat-square)
-
-Actively solving DSA and algorithmic problems in **Java** and **C++**, with a focus on greedy algorithms, array manipulation, and constructive problem-solving.
-
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/abhishekd1163?theme=light&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
+</div>
 ---
 
 <div align="center">
