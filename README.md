@@ -153,7 +153,7 @@ const abhishek = {
 ### 📫 **Reach Out**
 
 [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://abhishekduggal.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-duggal-109648298/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/abhishekd1163/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekduggal04@gmail.com)
 
