@@ -96,9 +96,6 @@ const abhishek = {
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/abhishekd1163?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
 </p>
-
-900+ problems solved across platforms · LeetCode rating 1500+ · Focus on greedy algorithms, array manipulation, and constructive problem-solving in **Java** and **C++**.
-
 ---
 
 ## 🌟 **Featured Projects**
