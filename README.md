@@ -6,7 +6,7 @@
 ### 🎯 **Who Am I?**
 
 ```js
-const abhishek = {
+const abhishekduggal = {
     location: "Punjab, India 🇮🇳",
     role: "Full-Stack Developer",
     education: "B.Tech CSE @ Chitkara University ('26), CGPA: 8.84/10",
